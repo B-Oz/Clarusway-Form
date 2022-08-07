@@ -40,7 +40,8 @@ h1{
 }
 p{
     font-size: 25px;
-    margin-bottom: 5px;
+    margin-bottom: .5rem;
+
 }
 
 .box{
@@ -64,15 +65,19 @@ input{
 input:hover{
     cursor: pointer;
 }
-#current-role{
-    margin-top: 5px;
-    margin-left: 0px;
-    margin-bottom: 10px;
-    font-family: inherit;
 
-    
-
-}
 #sug{
     margin-top: 10px;
+}
+
+.boxing{
+    padding: .3rem;
+    border-radius: .7rem;
+    margin: 1rem;
+    margin-left: 0;
+
+}
+
+.boxing:hover{
+    cursor: pointer;
 }
