@@ -81,3 +81,18 @@ input:hover{
 .boxing:hover{
     cursor: pointer;
 }
+
+.submit{
+    padding: .5rem;
+    margin-left: 17.5rem;
+}
+
+.submit:hover{
+    cursor: pointer;
+    background-color: rgb(175, 220, 187);
+}
+
+textarea{
+    border-radius: .7rem;
+    padding: .3rem;
+}
