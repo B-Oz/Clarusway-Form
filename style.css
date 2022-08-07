@@ -58,8 +58,12 @@ p{
 
 input{
     margin-bottom: 20px;
+    border-radius: .7rem;
 }
 
+input:hover{
+    cursor: pointer;
+}
 #current-role{
     margin-top: 5px;
     margin-left: 0px;
